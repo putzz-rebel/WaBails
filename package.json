@@ -1,16 +1,16 @@
 {
     "name": "tenka-san/WaBails",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "WhatsApp Modified By Putzz",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/tenka-san/WaBails",
+    "homepage": "https://github.com/putzz-rebel/WaBails",
     "repository": {
-        "url": "https://github.com/tenka-san/WaBails"
+        "url": "https://github.com/putzz-rebel/WaBails"
     },
     "license": "MIT",
-    "author": "7eppeli - Determinator",
+    "author": "PUTZZOFFC",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://tenka-san/WaBails/issues"
+      "url": "https://putzz-rebel/WaBails/issues"
     }
 }
